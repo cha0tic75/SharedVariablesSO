@@ -6,7 +6,7 @@
 
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Assets/Scriptable Objects/SharedVariables/Shared String" fileName = "New Shared String")]
+[CreateAssetMenu(menuName = "Assets/Scriptable Objects/SharedVariables/Shared String", fileName = "New Shared String")]
 public class SharedString : SharedVariableGeneric<string>
 {
     #region Properties:
