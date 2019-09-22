@@ -7,7 +7,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Scriptable Objects/Signal", fileName = "New Signal")]
+
+[CreateAssetMenu(menuName = "Assets/Scriptable Objects/SharedVariables/Signal", fileName = "New Signal")]
 public class Signal : ScriptableObject
 {
     public List<SignalListener> listeners = new List<SignalListener>();
