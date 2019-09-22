@@ -1,7 +1,7 @@
 # SharedVariablesSO
 My approach to Unity's ScriptableObject as a way to decouple references.
 
-This concept was borrowed from 2 unity talks:
+This concept was adapted from 2 unite talks:
 Richard Fine's Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
 (https://www.youtube.com/watch?v=6vmRwLYWNRo)
 Ryan Hipple's Unite Austin 2017 - Game Architecture with Scriptable Objects 
